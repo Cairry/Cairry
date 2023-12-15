@@ -48,9 +48,3 @@
 </td></tr>
 </table>
 
-
-<!-- GitHub metrics 信息指标 -->
-<div align="center">
-  <!-- just img 图片 -->
-  <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-</div>
