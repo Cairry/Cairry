@@ -25,7 +25,7 @@
 ### 🤺 About Me
 
 <p>&emsp;&emsp;大家好，我是Cairry。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名DevOps工程师!</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业的一名DevOps工程师!</p>
 <p>&emsp;&emsp;真正危险的不是计算机开始像人那样去思考，而是人类开始像计算机一样思考。—— 西德尼·哈里斯（Sydney Harris）, 记者</p>
 
 
